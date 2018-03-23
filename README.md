@@ -1,4 +1,4 @@
-# pet
+# flutter-cat-gallery
 
 A [simple] Flutter application to demonstrate how to deal with hero animation and grid view.
 
